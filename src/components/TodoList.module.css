@@ -1,0 +1,10 @@
+.list{
+    width: 400px;
+    height: 100px;
+    border: 1px solid black;
+    border-radius: 20px;
+    background-color: cadetblue;
+    margin: 15px;
+    list-style: none;
+}
+
